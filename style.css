@@ -1,0 +1,15 @@
+.message {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.reply {
+  padding-left: 20px;
+  display: none;
+}
+
+.expand-btn {
+  cursor: pointer;
+  color: blue;
+  margin-bottom: 5px;
+}
